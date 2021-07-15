@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![header](https://imgur.com/ur1cheV)
-![services](https://imgur.com/opNnxaT)
-![gallery](https://imgur.com/OlVuKtC)
-![contact](https://imgur.com/UbIyqut)
-![mobile view](https://imgur.com/GiWnJXr)
+![header](https://i.imgur.com/ur1cheV.png)
+![services](https://i.imgur.com/opNnxaT.png)
+![gallery](https://i.imgur.com/OlVuKtC.png)
+![contact](https://i.imgur.com/UbIyqut.png)
+![mobile view](https://i.imgur.com/GiWnJXr.png)
 
 ### Links
 
